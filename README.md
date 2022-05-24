@@ -12,5 +12,4 @@ Information about the anime like genre, stats, studio, etc.
 HTML with anime information to do data scrapping. These files contain information such as reviews, synopsis, information about the staff, anime statistics, genre, etc.
 Also, the code used to collect the data is available at github: https://github.com/Hernan4444/MyAnimeList-Database.
 
-Warning: this dataset includes information about anime for adults (hentai).
 
