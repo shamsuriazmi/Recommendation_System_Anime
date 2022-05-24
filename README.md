@@ -1,7 +1,16 @@
-# Recommendation_System_MovieLens
+# Recommendation_System_Anime
 
-## Movie Lens 20M dataset
+## About Dataset
+MyAnimeList Database 2020
+Recommendation data from 320.0000 users and 16.000 animes at myanimelist.net
 
-MovieLens 20M movie ratings. Stable benchmark dataset. 20 million ratings and 465,000 tag applications applied to 27,000 movies by 138,000 users. Includes tag genome data with 12 million relevance scores across 1,100 tags. Released 4/2015; updated 10/2016 to update links.csv and add tag genome data.
+This dataset contains information about 17.562 anime and the preference from 325.772 different users. In particular, this dataset contain:
 
-https://grouplens.org/datasets/movielens/
+The anime list per user. Include dropped, complete, plan to watch, currently watching and on hold.
+Ratings given by users to the animes that they has watched completely.
+Information about the anime like genre, stats, studio, etc.
+HTML with anime information to do data scrapping. These files contain information such as reviews, synopsis, information about the staff, anime statistics, genre, etc.
+Also, the code used to collect the data is available at github: https://github.com/Hernan4444/MyAnimeList-Database.
+
+Warning: this dataset includes information about anime for adults (hentai).
+
